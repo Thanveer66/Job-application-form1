@@ -1,0 +1,11 @@
+h2 {
+  text-align: center;
+  padding: 25px;
+  background-color: rgb(248, 246, 243);
+}
+fieldset {
+  color: rgb(67, 67, 174);
+}
+button {
+  background-color: rgb(181, 181, 230);
+}
